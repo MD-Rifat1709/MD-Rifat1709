@@ -13,4 +13,4 @@ Feel free to explore my repositories, where I share my projects, research, and c
 * 📫 How to reach me: You can connect with me through LinkedIn.
 * 😄 Pronouns: He/Him.
 
-[![trophy](https://github-profile-trophy.vercel.app/?MD-Rifat1709=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=yourusername)
