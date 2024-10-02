@@ -13,4 +13,6 @@ Feel free to explore my repositories, where I share my projects, research, and c
 * 📫 How to reach me: You can connect with me through LinkedIn.
 * 😄 Pronouns: He/Him.
 
-![Trophies](https://github-trophies.vercel.app/?username=MD-Rifat1709)
+## 🏆 GitHub Profile Trophy:
+
+![trophy](https://github-profile-trophy.vercel.app/?username=MD-Rifat1709&theme=onedark)
