@@ -1,6 +1,6 @@
 ## Hello Hello 👋
 
-I am a passionate Biomedical Engineering graduate with a strong foundation in software development and artificial intelligence. My academic journey includes a Master’s in Biomedical Engineering from the University of Galway and a Master’s in Computer Application - Artificial Intelligence from Amrita AHEAD Online.
+I am a passionate Artificial Intelligence/Biomedical Engineering graduate with a strong foundation in software development and artificial intelligence. My academic journey includes a Master’s in Biomedical Engineering from the University of Galway and a Master’s in Computer Application - Artificial Intelligence from Amrita AHEAD Online.
 With skills in programming (C, C++, Python), machine learning, image processing, and biomedical engineering, I aim to contribute to transformative projects that enhance patient care and medical technologies.
 
 Feel free to explore my repositories, where I share my projects, research, and contributions to the fields of biomedical engineering and artificial intelligence.
